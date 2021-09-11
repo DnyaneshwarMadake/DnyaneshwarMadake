@@ -1,3 +1,5 @@
+
+
 # Sparks Foundation : ***Web Development and Design Internship*** 
 # Task 1: 
  Task Completed link https://dnyaneshwarmadake.000webhostapp.com/
@@ -19,20 +21,23 @@ Visit The Application Here => https://dnyaneshwarmadake.000webhostapp.com/
 
 ### Home (Index.php) :
 
-![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/1.png)<br><br>
+![1](https://user-images.githubusercontent.com/87903257/132953394-c711e60a-65f2-42e2-8627-0df613bf698b.png)<br><br>
 
 ### Create Account Page (create-user.php) 
 
-![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/create%20user.png)<br><br>
+![create user](https://user-images.githubusercontent.com/87903257/132953410-67a25cca-8155-4f2f-b991-5051d58a9a2c.png)<br><br>
 
 ### View All Registerd Customers page (view-all-customers.php)
 
-![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/view%20all%20customer%20php.png)<br><br>
+![view all customer php](https://user-images.githubusercontent.com/87903257/132953455-476cde61-7893-496f-896f-64164faea496.png)
+<br><br>
 
 ### Trasfer Amount Page  (transfer-money.php)
+![transfer money](https://user-images.githubusercontent.com/87903257/132953482-13928bdc-38cc-4862-a877-4d86242da56d.png)
 
-![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/transfer%20money.png)<br><br>
+<br><br>
 
 ### Transaction History Page (view-transaction.php)
-![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/transaction%20history.png)
+![transaction history](https://user-images.githubusercontent.com/87903257/132953483-9f4135f4-e6d3-445e-a0a4-ff1437714f21.png)
+
 
