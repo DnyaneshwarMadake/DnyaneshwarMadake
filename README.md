@@ -19,20 +19,20 @@ Visit The Application Here => https://dnyaneshwarmadake.000webhostapp.com/
 
 ### Home (Index.php) :
 
-![image]()<br><br>
+![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/1.png)<br><br>
 
 ### Create Account Page (create-user.php) 
 
-![image]()<br><br>
+![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/create%20user.png)<br><br>
 
 ### View All Registerd Customers page (view-all-customers.php)
 
-![image]()<br><br>
+![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/view%20all%20customer%20php.png)<br><br>
 
 ### Trasfer Amount Page  (transfer-money.php)
 
-![image]()<br><br>
+![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/transfer%20money.png)<br><br>
 
 ### Transaction History Page (view-transaction.php)
-![image]()
+![image](file:///C:/Users/dieha/OneDrive/Pictures/photos/New%20folder/transaction%20history.png)
 
